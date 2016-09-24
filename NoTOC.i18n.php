@@ -3,29 +3,29 @@
  * Internationalization file for the NoTOC extension.
  *
  * @licence GNU GPL v2+
+ *
  * @author Karsten Hoffmeyer (Kghbln)
  */
+$messages = [];
 
-$messages = array();
-
-/** English
+/* English
  * @author Frantik
  * @author Kghbln
  */
-$messages['en'] = array(
+$messages['en'] = [
         'notoc-desc' => 'Turns off the Table of Contents (TOC) by default on all pages',
-);
+];
 
-/** Message documentation (Message documentation)
+/* Message documentation (Message documentation)
  * @author Kghbln
  */
-$messages['qqq'] = array(
+$messages['qqq'] = [
         'notoc-desc' => '{{desc|name=NoTOC|url=https://www.mediawiki.org/wiki/Extension:NoTOC}}',
-);
+];
 
-/** German (Deutsch)
+/* German (Deutsch)
  * @author Kghbln
  */
-$messages['de'] = array(
+$messages['de'] = [
         'notoc-desc' => 'Unterdrückt die automatische Generierung des Inhaltsverzeichnisses',
-);
+];
