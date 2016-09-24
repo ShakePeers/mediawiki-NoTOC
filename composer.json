@@ -1,0 +1,6 @@
+{
+    "name": "shakepeers/no-toc",
+    "description": "The NoTOC MediaWiki extension hides the table of contents by default.",
+    "license": "GPL-3.0",
+    "type": "mediawiki-extension"
+}
